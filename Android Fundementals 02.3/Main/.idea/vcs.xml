@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/Codelabs012" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/constraint-layout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/constraint-layout/twoActivities" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app" vcs="Git" />
+  </component>
+</project>
