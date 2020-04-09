@@ -1,0 +1,4 @@
+#Thu Apr 09 04:14:12 CDT 2020
+base.0=C\:\\Users\\danie\\OneDrive\\Documents\\Spring 2020\\CSC-4200 App Development\\Android Fundemantals\\Android Fundementals 09.2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
